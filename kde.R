@@ -1,5 +1,6 @@
 # Kernel density estimation function based on: 
 # http://www.biostat.jhsph.edu/%7Erpeng/docs/interface.pdf
+# https://www.r-bloggers.com/spatial-data-analysis-with-inla/
 
 # lets try the ksmooth example
 ksmooth3 <- function(x, xpts, h) {
